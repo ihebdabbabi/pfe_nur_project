@@ -1,0 +1,79 @@
+body{
+  background-image: url("../img/backg/backg6.png");
+}
+
+.submitstyle {
+
+	border-radius:8px;
+	color: white;
+background-color: #FF6600;
+    padding: 12px 20px;
+    
+    border: 1px solid #2cabcf;
+	font-size:20px;
+	vertical-align:middle;
+	text-align:center;
+	 font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	text-decoration:none;
+    
+    
+     }
+
+
+
+.login {
+  
+  background-image: url('login.png');
+ background-position: 10px 10px;
+  
+  background-repeat: no-repeat;
+  
+  font-size:24px;
+color: #FF6600;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+background-color: #E8E8E8;
+  padding: 12px 20px 12px 60px;
+}
+	
+
+
+
+.pass {
+  
+  background-image: url('pass.png');
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  padding: 12px 20px 12px 60px;
+  font-size:24px;
+color: #FF6600;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+background-color: #E8E8E8;
+}
+
+
+
+
+
+.submitstyle:hover {
+background-color: orange;
+	cursor:pointer;
+}
+
+
+
+
+body,td,th {
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+
+}
+

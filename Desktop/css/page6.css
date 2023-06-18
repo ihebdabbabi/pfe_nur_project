@@ -1,0 +1,166 @@
+body {
+background-size: 100% 100%;
+
+  overflow-y: scroll;
+
+
+  background-image: url("../img/backg/backg.png");
+
+ 
+  scrollbar-color: #FF6600 #C2D2E4;
+}
+
+
+
+.hyper
+{
+font-size: 29px;
+
+
+}
+.submitstyle {
+
+	border-radius:8px;
+	color: white;
+background-color: #FF6600;
+    padding: 12px 20px;
+    
+    border: 1px solid #2cabcf;
+	font-size:20px;
+	vertical-align:middle;
+	text-align:center;
+	 font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	text-decoration:none;
+    
+    
+     }
+
+.submitstyle:hover {
+background-color: orange;
+	cursor:pointer;
+}
+
+
+
+
+
+.submitstyle2 {
+border-radius:8px;
+color: white;
+background-color: #FF6600;
+    padding: 12px 20px;
+    
+    border: 1px solid #2cabcf;
+	font-size:13px;
+	vertical-align:middle;
+	text-align:center;
+	 font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	text-decoration:none;
+}
+
+.submitstyle2:hover {
+background-color: orange;
+	cursor:pointer;
+}
+
+
+.clos {
+	background-image: url("../img/icon/clos2.png");
+  background-position: 40px 40px;
+	display:block;
+	height:40px;
+	width:40px;
+	border-radius: 50%;
+	border:1px solid #FF6600;
+		
+	
+	
+	
+}
+
+
+.clos:hover {
+background-image: url("../img/icon/closn2.png");
+	cursor:pointer;
+}
+
+
+.modif {
+	background-image: url("../img/icon/modif2.png");
+  background-position: 40px 40px;
+	display:block;
+	height:40px;
+	width:40px;
+	border-radius: 50%;
+	border:1px solid #FF6600;
+		
+	
+	
+	
+}
+
+
+.modif:hover {
+background-image: url("../img/icon/modifn2.png");
+	cursor:pointer;
+}
+
+
+.supp {
+	background-image: url("../img/icon/delete2.png");
+  background-position: 40px 40px;
+	display:block;
+	height:40px;
+	width:40px;
+	border-radius: 50%;
+	border:1px solid #FF6600;
+		
+	
+	
+	
+}
+
+.supp:hover {
+background-image: url("../img/icon/deleten2.png");
+	cursor:pointer;
+}
+
+
+
+.liste {
+	background-image: url("../img/icon/liste2.png");
+  background-position: 40px 40px;
+	display:block;
+	height:40px;
+	width:40px;
+	border-radius: 50%;
+	border:1px solid #FF6600;
+		
+	
+	
+	
+}
+
+
+.liste:hover {
+background-image: url("../img/icon/listen2.png");
+	cursor:pointer;
+}
+
+
+input[type=text]{
+width:80px;  
+ border: 0px;
+font-size:14px;
+background-color: transparent;
+
+}
+
+
+
+
+
+
+.arrondi_droit {
+  border-radius: 10px 40px 40px 10px;
+}

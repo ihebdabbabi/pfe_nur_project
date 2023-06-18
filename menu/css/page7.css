@@ -1,0 +1,182 @@
+body {
+background-size: 100% 100%;
+
+  overflow-y: scroll;
+
+
+
+
+ 
+  scrollbar-color: #FF6600 #C2D2E4;
+}
+
+
+
+.hyper
+{
+font-size: 29px;
+
+
+}
+.submitstyle {
+
+	border-radius:8px;
+	color: white;
+background-color: #FF6600;
+    padding: 12px 20px;
+    
+    border: 1px solid #2cabcf;
+	font-size:20px;
+	vertical-align:middle;
+	text-align:center;
+	 font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	text-decoration:none;
+    
+    
+     }
+
+.submitstyle:hover {
+background-color: orange;
+	cursor:pointer;
+}
+
+
+
+
+
+.submitstyle2 {
+border-radius:8px;
+color: white;
+background-color: #FF6600;
+    padding: 12px 20px;
+    
+    border: 1px solid #2cabcf;
+	font-size:13px;
+	vertical-align:middle;
+	text-align:center;
+	 font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	text-decoration:none;
+}
+
+.submitstyle2:hover {
+background-color: orange;
+	cursor:pointer;
+}
+
+
+
+.clos {
+	background-image: url("../img/icon/clos2.png");
+  background-position: 40px 40px;
+	display:block;
+	height:40px;
+	width:40px;
+	border-radius: 50%;
+	border:1px solid #FF6600;
+		
+	
+	
+	
+}
+
+
+.clos:hover {
+background-image: url("../img/icon/closn2.png");
+	cursor:pointer;
+}
+
+
+.modif {
+	background-image: url("../img/icon/modif2.png");
+  background-position: 40px 40px;
+	display:block;
+	height:40px;
+	width:40px;
+	border-radius: 50%;
+	border:1px solid #FF6600;
+		
+	
+	
+	
+}
+
+
+.modif:hover {
+background-image: url("../img/icon/modifn2.png");
+	cursor:pointer;
+}
+
+
+.supp {
+	background-image: url("../img/icon/delete2.png");
+  background-position: 40px 40px;
+	display:block;
+	height:40px;
+	width:40px;
+	border-radius: 50%;
+	border:1px solid #FF6600;
+		
+	
+	
+	
+}
+
+.supp:hover {
+background-image: url("../img/icon/deleten2.png");
+	cursor:pointer;
+}
+
+
+
+.liste {
+	background-image: url("../img/icon/liste2.png");
+  background-position: 40px 40px;
+	display:block;
+	height:40px;
+	width:40px;
+	border-radius: 50%;
+	border:1px solid #FF6600;
+		
+	
+	
+	
+}
+
+
+.liste:hover {
+background-image: url("../img/icon/listen2.png");
+	cursor:pointer;
+}
+
+
+
+
+
+
+input[type=text], select, [type=password],textarea,[type=time] {
+  
+ padding: 6px 13px;
+  font-size:13px;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #D8D8D8;
+  border-radius: 4px;
+  box-sizing: border-box;
+background-color: white;
+
+div {
+  height: 100px;
+  width: 200px;
+  border-style: solid;
+  border-color: black;
+  background-color: palegreen;
+}
+}
+
+
+
+
+.arrondi_droit {
+  border-radius: 10px 40px 40px 10px;
+}

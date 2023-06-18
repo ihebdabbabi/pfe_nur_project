@@ -1,0 +1,290 @@
+body {
+  overflow-y: scroll;
+  background-image: url("../img/backg/backg6.png");
+  scrollbar-color: #FF6600 #C2D2E4;
+}
+.submitstyle {
+
+	border-radius:8px;
+	color: black;
+background-color: #C8C8C8;
+    padding: 12px 20px;
+    
+    border: 1px solid #989898;
+	font-size:20px;
+	vertical-align:middle;
+	text-align:center;
+	 font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	text-decoration:none;
+    
+    
+     }
+
+.submitstyle:hover {
+background-color: #E8E8E8;
+	cursor:pointer;
+}
+
+
+.button {
+	
+	border-radius:8px;
+	color: black;
+background-color: #C8C8C8;
+    padding: 12px 20px;
+    
+    border: 1px solid #989898;
+	font-size:20px;
+	vertical-align:middle;
+	text-align:center;
+	 font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	text-decoration:none;
+	
+	
+	
+	
+	
+	
+}
+
+.button:hover {
+background-color: #E8E8E8;
+	cursor:pointer;
+}
+
+
+
+
+
+.submitstyle2 {
+border-radius:8px;
+color: white;
+background-color: #FF6600;
+    padding: 12px 20px;
+    
+    border: 1px solid #2cabcf;
+	font-size:13px;
+	vertical-align:middle;
+	text-align:center;
+	 font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	text-decoration:none;
+}
+
+.submitstyle2:hover {
+background-color: orange;
+	cursor:pointer;
+}
+
+
+
+
+
+
+.disconnect {
+	background-image: url("../img/icon/disconnect.png");
+  background-position: 50px 50px;
+	display:block;
+	height:50px;
+	width:50px;
+	border-radius: 50%;
+	border:1px solid #FF6600;
+		
+	
+	
+	
+}
+
+
+.disconnect:hover {
+background-image: url("../img/icon/disconnectn.png");
+	cursor:pointer;
+}
+
+
+
+
+.new {
+	background-image: url("../img/icon/new.png");
+  background-position: 100px 100px;
+	display:block;
+	height:100px;
+	width:100px;
+	border-radius: 50%;
+	border:3px solid #FF6600;
+		
+	
+	
+	
+}
+
+
+.new:hover {
+background-image: url("../img/icon/newn.png");
+	cursor:pointer;
+}
+
+.escalade {
+	background-image: url("../img/icon/escalade.png");
+  background-position: 100px 100px;
+	display:block;
+	height:100px;
+	width:100px;
+	border-radius: 50%;
+	border:1px solid #FF6600;
+		
+	
+	
+	
+}
+
+
+.escalade:hover {
+background-image: url("../img/icon/escaladen.png");
+	cursor:pointer;
+}
+
+.clos {
+	background-image: url("../img/icon/clos.png");
+  background-position: 100px 100px;
+	display:block;
+	height:100px;
+	width:100px;
+	border-radius: 50%;
+	border:1px solid #FF6600;
+		
+	
+	
+	
+}
+
+
+.clos:hover {
+background-image: url("../img/icon/closn.png");
+	cursor:pointer;
+}
+
+.modif {
+	background-image: url("../img/icon/modif.png");
+  background-position: 100px 100px;
+	display:block;
+	height:100px;
+	width:100px;
+	border-radius: 50%;
+	border:1px solid #FF6600;
+		
+	
+	
+	
+}
+
+
+.modif:hover {
+background-image: url("../img/icon/modifn.png");
+	cursor:pointer;
+}
+
+.liste {
+	background-image: url("../img/icon/liste.png");
+  background-position: 100px 100px;
+	display:block;
+	height:100px;
+	width:100px;
+	border-radius: 50%;
+	border:1px solid #FF6600;
+		
+	
+	
+	
+}
+
+
+.liste:hover {
+background-image: url("../img/icon/listen.png");
+	cursor:pointer;
+}
+
+.stat {
+	background-image: url("../img/icon/stat.png");
+  background-position: 100px 100px;
+	display:block;
+	height:100px;
+	width:100px;
+	border-radius: 50%;
+	border:3px solid #FF6600;
+		
+	
+	
+	
+}
+
+
+.stat:hover {
+background-image: url("../img/icon/statn.png");
+	cursor:pointer;
+}
+
+.b2b {
+	background-image: url("../img/icon/b2b.png");
+  background-position: 100px 100px;
+	display:block;
+	height:100px;
+	width:100px;
+	border-radius: 50%;
+	border:1px solid #FF6600;
+		
+	
+	
+	
+}
+
+
+.b2b:hover {
+background-image: url("../img/icon/b2bn.png");
+	cursor:pointer;
+}
+
+.modop {
+	background-image: url("../img/icon/modop.png");
+  background-position: 100px 100px;
+	display:block;
+	height:100px;
+	width:100px;
+	border-radius: 50%;
+	border:1px solid #FF6600;
+		
+	
+	
+	
+}
+
+
+.modop:hover {
+background-image: url("../img/icon/modopn.png");
+	cursor:pointer;
+}
+
+
+input[type=text], select, [type=password],textarea,[type=time] {
+  
+ padding: 12px 20px;
+  font-size:17px;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+background-color: #E8E8E8;
+
+div {
+  height: 100px;
+  width: 200px;
+  border-style: solid;
+  border-color: black;
+  background-color: palegreen;
+}
+}
+
+.arrondi_droit {
+  border-radius: 10px 40px 40px 10px;
+}

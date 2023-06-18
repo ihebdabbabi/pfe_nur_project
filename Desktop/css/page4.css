@@ -1,0 +1,163 @@
+body {
+background-size: 100% 100%;
+  overflow-y: scroll;
+  background-image: url("../img/backg/backg.png");
+
+	
+ margin-left:25px;
+  scrollbar-color: #FF6600 #C2D2E4;
+}
+.submitstyle {
+
+	border-radius:8px;
+	color: white;
+background-color: #FF6600;
+    padding: 12px 20px;
+    
+    border: 1px solid #2cabcf;
+	font-size:20px;
+	vertical-align:middle;
+	text-align:center;
+	 font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	text-decoration:none;
+    
+    
+     }
+
+.submitstyle:hover {
+background-color: orange;
+	cursor:pointer;
+}
+
+
+
+
+
+.submitstyle2 {
+border-radius:8px;
+color: white;
+background-color: #FF6600;
+    padding: 12px 20px;
+    
+    border: 1px solid #2cabcf;
+	font-size:13px;
+	vertical-align:middle;
+	text-align:center;
+	 font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	text-decoration:none;
+}
+
+.submitstyle2:hover {
+background-color: orange;
+	cursor:pointer;
+}
+
+
+
+
+
+
+input[type=text], select, [type=password],textarea,[type=time] {
+  
+ padding: 12px 20px;
+  font-size:17px;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #D8D8D8;
+  border-radius: 4px;
+  box-sizing: border-box;
+background-color: white;
+
+div {
+  height: 100px;
+  width: 200px;
+  border-style: solid;
+  border-color: black;
+  background-color: palegreen;
+}
+}
+
+.arrondi_droit {
+  border-radius: 10px 40px 40px 10px;
+}
+
+
+.inputdynamic
+{
+	width:380px;
+		
+	padding: 12px 20px;
+  font-size:17px;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #D8D8D8;
+  border-radius: 4px;
+  box-sizing: border-box;
+background-color: white;
+
+div {
+  height: 100px;
+  width:380px;
+  border-style: solid;
+  border-color: black;
+  background-color: palegreen;
+}
+	
+	
+}
+
+#prop
+{
+	visibility:hidden;
+	position:absolute;
+	background-color: orange;
+	height:auto;
+	width:290px;
+	display: inline-block;
+  border: 1px solid #D8D8D8;
+  border-radius: 4px;	
+	background-color:#EDEEEE;
+	background:rgba(100,100,100,.8);
+	color:white;
+	font-weight:bold;
+	font-size:17px;
+	margin-top:5px;
+	padding:5px;
+	cursor:pointer;
+}
+
+
+
+.flux
+{
+	padding:0px;
+	margin:0px;
+	width:auto;
+}
+
+.flux:hover
+{
+color:orange;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
